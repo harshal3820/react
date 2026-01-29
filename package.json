@@ -1,0 +1,35 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is react app by Harshal Patil",
+  "keywords": [
+    "resct",
+    "harshal",
+    "react.js",
+    "npm"
+  ],
+  "homepage": "https://github.com/harshal3820/react#readme",
+  "bugs": {
+    "url": "https://github.com/harshal3820/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshal3820/react.git"
+  },
+  "license": "ISC",
+  "author": "Harshal Patil",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 5 versions"
+  ]
+}
